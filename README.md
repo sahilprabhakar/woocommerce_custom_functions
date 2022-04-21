@@ -6,8 +6,7 @@
 
 <h4 align="left">Table of Contents</h4>
 <dl>
-<dd>Get Products with Particular Attribute Value</dd>
-<dt>get_products_with_particular_attribute_value.php</dt>
+<dt>Get Products with Particular Attribute Value</dt><dd>get_products_with_particular_attribute_value.php</dd>
 </dl>
 
 
