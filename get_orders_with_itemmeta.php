@@ -6,5 +6,5 @@
  */
 
  function get_orders_itemmeta() {
-     
+     global $wpdb; 
  }
